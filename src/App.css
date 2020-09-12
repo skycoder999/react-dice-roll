@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+.jumbotron{
+  background: #2c8d72;
+  color: #fff;
+}
+
+.rollButton {
+	background-color:#2c8d72;
+  border-radius:5px;
+  border: none;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.rollButton:hover {
+	background-color:#5cbf2a;
+}
+.rollButton:active {
+	position:relative;
+	top:1px;
+}
